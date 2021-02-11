@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#e4002b</color>
+    <color name="c_camera_permission_background">#f7fafe</color>
+    <color name="colorPrimary">#E8002A</color>
+    <color name="color_no_results_gray">#d2d9df</color>
+
+
+</resources>
